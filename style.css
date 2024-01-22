@@ -1,0 +1,43 @@
+
+
+.cabecalho{
+    background-color: blue;
+
+}
+
+.botao{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    align-items: center;
+    width: 100px;
+    height: 40px;
+}
+
+
+.imagemdepoimento{
+    margin-top: 40px;
+    width: 90px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 90px;
+ 
+    justify-content: center;
+
+}
+
+.depoimento{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    gap: 50px;
+   
+    justify-content: center;
+    
+}
+
+.contato{
+    background-color: black;
+    color: aliceblue;
+    text-align: CENTER;
+}
